@@ -1,25 +1,25 @@
-### EOT Open Hardware
+## EOT Open Hardware
 
-##### BOM
+#### BOM
 
-**energyot_open_BOM.xlsx** - Bill of Materials
+- **energyot_open_BOM.xlsx** - Bill of Materials
 
-##### Schematic
+#### Schematic
 
-**energyot_open_schematic.pdf** - Schematic
+- **energyot_open_schematic.pdf** - Schematic
 
-##### Layout
+#### Layout
 
-**energyot_open_top_layout.pdf** - PCB TOP
-**energyot_open_bottom_layout.pdf** - PCB BOTTOM
-**energyot_open_all_layout.pdf** - PCB COMPLETE
+- **energyot_open_top_layout.pdf** - PCB TOP
+- **energyot_open_bottom_layout.pdf** - PCB BOTTOM
+- **energyot_open_all_layout.pdf** - PCB COMPLETE
 
-##### Programming Details
+#### Programming Details
 
-**programming pads.png**
-**programming usb.png**
+- **programming pads.png**
+- **programming usb.png**
 
-###TO PROGRAM
+##TO PROGRAM
 
 You will need an USB to serial converter (like FTDI or Prolific). Then there are two ways that you can program this hardware:
 
