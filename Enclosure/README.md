@@ -2,9 +2,10 @@
 
 **3D Print** Middle 3D Print.STL
 
-**Acrílic Bottom:** bottom.DXF
+**AcrÃ­lic Bottom:** bottom.DXF
 
-**Acrílic Top ** bottom.DXF
+**AcrÃ­lic Top:** bottom.DXF
+
 
 **Website:** www.eot.pt
 
