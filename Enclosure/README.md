@@ -1,9 +1,10 @@
-### EOT Open Docs
+### EOT Enclosure
 
-##### Manual
+**3D Print** Middle 3D Print.STL
 
-**complete_manual.pdf**
+**Acrílic Bottom:** bottom.DXF
 
+**Acrílic Top ** bottom.DXF
 
 **Website:** www.eot.pt
 

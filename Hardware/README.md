@@ -27,3 +27,11 @@ You will need an USB to serial converter (like FTDI or Prolific). Then there are
  - You can close the solder jumpers in the bottom (J1, J2 and J3) and use the uUSB cable to program. Notice that after programming you should open the solder jumpers again check programming usb.png).
  
 Notice that the usb to serial converter should be 3.3V and during the programming phase you will need to pull the GPIO0 pin to ground.
+
+
+
+**Website:** www.eot.pt
+
+**Mail:** contact@energyot.pt
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
